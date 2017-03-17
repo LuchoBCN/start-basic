@@ -5,7 +5,20 @@ body {
       color: #f5f6f7;
 }
 
+/*Nav*/
+.fsize  {
+    font-size: 0.6em;
 
+}
+
+/*jumbotron*/
+.jumbotron {
+    background-color: firebrick;
+    color: azure;
+    padding: 100px;
+}
+
+/*forms*/
 
 
 
